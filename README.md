@@ -10,7 +10,7 @@ Excel → Tableau | Weekly Revenue, Expense & Goal Tracking | Executive-Style KP
 
 ## 🖼️ Dashboard Preview
 
-![Sales Dashboard Overview] <img width="613" height="366" alt="Sales_dshbrd" src="https://github.com/user-attachments/assets/fd3c0057-f877-4f62-a1f4-cb205102f727" />
+<img width="613" height="366" alt="Sales_dshbrd" src="https://github.com/user-attachments/assets/fd3c0057-f877-4f62-a1f4-cb205102f727" />
 
 
 *Sales Dashboard Overview — Revenue, Expense, Weekly Sales Goal, Profit Margin trend, and Top Sales leaderboard in one view*
